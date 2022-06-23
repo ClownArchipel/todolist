@@ -1,3 +1,10 @@
+# Step by Step
+1. Download the repository
+2. Extract and go to the folder
+3. run "npm install"
+4. run "npx json-server --watch db.json --port 8080" to start server api from db.json"
+5. npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +75,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+"# todolist" 
+"# todolist" 
