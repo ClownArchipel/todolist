@@ -1,0 +1,28 @@
+{
+  "activities": [
+    {
+      "title": "Wake Up Morning",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Breakfast"
+    },
+    {
+      "id": 3,
+      "title": "Going to School"
+    },
+    {
+      "id": 4,
+      "title": "Practicing coding"
+    },
+    {
+      "id": 5,
+      "title": "Swiming"
+    },
+    {
+      "title": "Doing Act",
+      "id": 6
+    }
+  ]
+}
